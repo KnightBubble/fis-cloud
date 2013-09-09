@@ -1,0 +1,15 @@
+/.idea
+/.settings
+/.project
+/.npmignore
+node_modules/
+
+.DS_Store
+*.db
+*.bak
+*.tmp
+*.cmd
+~*
+
+upload.py
+
