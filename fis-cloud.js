@@ -1,6 +1,12 @@
 
 'use strict';
-
+/**
+ * todo : 服务启动完善
+ *  1. server端口指定
+ *  2. 数据库端口指定
+ *  3. 数据库db指定
+ *  4. 自动启动数据库
+ */
 var fis= module.exports = require('fis-cloud-kernel');
 
 fis.cli = {};

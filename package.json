@@ -1,14 +1,14 @@
 {
   "name": "fis-cloud",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "fis-cloud",
   "main": "fis-cloud.js",
   "dependencies": {
-    "commander" : "2.0.0",
-    "fis-cloud-kernel" : "0.0.1"
+    "commander": "2.0.0",
+    "fis-cloud-kernel": "0.0.5"
   },
-  "bin" : {
-    "fis-cloud" : "bin/fis-cloud"
+  "bin": {
+    "fis-cloud": "bin/fis-cloud"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,6 +18,8 @@
     "fis",
     "fis-cloud"
   ],
-  "author": "fis-team",
+  "author": {
+    "name": "fis-team"
+  },
   "license": "BSD"
 }
