@@ -1,5 +1,5 @@
 #!/usr/bin/env bash  
-#停止mongodb数据库
+#stop mongodb
 
 mongoPIDs=$(ps -ef -u fis-cloud| grep 8887 | grep -v grep | cut -c 7-15);
 echo $mongoPIDs;
