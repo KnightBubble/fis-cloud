@@ -1,4 +1,4 @@
-#!/usr/bin/env bash  
+#!/user/bin/env bash
 #stop mongodb
 
 mongoPIDs=$(ps -ef -u fis-cloud| grep 8887 | grep -v grep | cut -c 7-15);
