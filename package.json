@@ -1,6 +1,6 @@
 {
   "name": "fis-cloud",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "fis-cloud",
   "main": "fis-cloud.js",
   "dependencies": {
