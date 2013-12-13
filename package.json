@@ -1,11 +1,12 @@
 {
   "name": "fis-cloud",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "fis-cloud",
   "main": "fis-cloud.js",
   "dependencies": {
     "commander": "2.0.0",
-    "fis-cloud-kernel": "*"
+    "fis-cloud-kernel": "*",
+    "js-base64": "2.1.2"
   },
   "bin": {
     "fis-cloud": "bin/fis-cloud"
